@@ -1,0 +1,17 @@
+
+
+References: 
+  ☐ https://www.youtube.com/watch?v=uextYhQGP6k&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS&index=2
+  ☐ https://www.youtube.com/watch?v=WDvn0w86itw&list=PLYxzS__5yYQmD7FV1YYz9UxPyGTNsFObp
+  Notes: 
+  ☐ Webpages have components 
+  ☐ React js use reusable component to build webpages 
+  ☐ Reactjs is a js library where as angular 2 is a freamwork 
+  ☐ ANgular 2 allows to build single page app , has router , control everything 
+  ☐ React can be exteded to build single page 
+  ☐ Core react is use to create views or component of views 
+ 
+ Workspace with webpack:
+   ☐ Need to include React js and react dom 
+   ☐ webpack bundle your all asset into a single page and include in your pages
+   ☐ using npm 
